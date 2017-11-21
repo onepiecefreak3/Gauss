@@ -1,0 +1,7 @@
+C:\Users\Kirito\Desktop\Gauß\Gauß\bin\Debug\Gauß.exe.config
+C:\Users\Kirito\Desktop\Gauß\Gauß\bin\Debug\Gauß.exe
+C:\Users\Kirito\Desktop\Gauß\Gauß\bin\Debug\Gauß.pdb
+C:\Users\Kirito\Desktop\Gauß\Gauß\obj\Debug\Gauß.csprojResolveAssemblyReference.cache
+C:\Users\Kirito\Desktop\Gauß\Gauß\obj\Debug\Gauß.csproj.CoreCompileInputs.cache
+C:\Users\Kirito\Desktop\Gauß\Gauß\obj\Debug\Gauß.exe
+C:\Users\Kirito\Desktop\Gauß\Gauß\obj\Debug\Gauß.pdb
